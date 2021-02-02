@@ -1,4 +1,4 @@
-## RestAPI using the backend framework nestjs and deployed in Docker container and Postgres
+## RestAPI using the backend framework nestjs and deployed in Docker and Postgres
 
 * To download  - git clone https://github.com/crislerwintler/nest-api.git -
 
