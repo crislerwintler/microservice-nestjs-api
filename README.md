@@ -1,4 +1,4 @@
-## RestAPI using * _NestJs_*  Docker and Postgres
+## RestAPI using * _NestJS_*  Docker and Postgres
 
 * To download  - git clone https://github.com/crislerwintler/nest-api.git -
 
