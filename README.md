@@ -1,8 +1,8 @@
-## RestAPI using the backend framework nestjs and deployed in Docker container
+## RestAPI using the backend framework nestjs and deployed in Docker container and Postgres
 
 * To download  - git clone https://github.com/crislerwintler/nest-api.git -
 
-# To run you need docker installed !
+# To run you need to have docker installed !!
 After downloaded open on you editor
 
 * chmod +x .docker/entrypoint.sh
