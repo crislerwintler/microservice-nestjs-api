@@ -1,7 +1,29 @@
-POST http://localhost:3000/products
+###
+POST http://localhost:3000/videos
 Content-Type: application/json
 
 {
-    "name": "produto teste",
-    "price": 10.12
+    
+    "name": "João",
+    "description": "Silva é um cara bem legal",
+    "url": "https://www.youtube.com/c/FullCycle/videos"
+}
+
+###
+GET http://localhost:3000/products/26
+
+
+###
+GET http://localhost:3000/products/22
+
+###
+DELETE http://localhost:3000/products/24
+
+###
+PUT http://localhost:3000/products/25
+Content-Type: application/json
+
+{
+    "name": "produto alterado",
+    "price": 10.20
 }
