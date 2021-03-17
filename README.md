@@ -1,12 +1,8 @@
-## RestAPI using * _NestJS_*  Docker and Postgres
+# MVC CREATE/READ/UPDATE/DELETE (CRUD) API Using NestJS Framework
 
-* To download  - git clone https://github.com/crislerwintler/nest-api.git -
+## To Use:
 
-# To run you need to have docker installed !!
-After downloaded open on you editor
-
-* chmod +x .docker/entrypoint.sh
-
-* _docker-compose up --build_
-
-_To access container _docker-compose app bash_ for run terminal on docker container_
+```
+git clone https://github.com/crislerwintler/Microservice_NestJS_API.git
+chmod +x .docker/entrypoint.sh
+docker-compose up --build
