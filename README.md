@@ -15,4 +15,4 @@ git clone https://github.com/crislerwintler/microservice-nestjs-api.git
 sudo docker-compose up --build
 ```
 ## Observações
-Precisa ter o docker e docker-compose instalado e deletar a pasta .data
+Precisa ter o docker e docker-compose instalado e deletar a pasta .dbdata
